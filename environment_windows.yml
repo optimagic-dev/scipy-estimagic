@@ -1,0 +1,32 @@
+name: scipy_estimagic
+channels:
+  - conda-forge
+  - nodefaults
+
+dependencies:
+  - python ==3.9
+  - pip
+
+  # Dependencies
+  - pandas
+  - numpy
+  - scipy
+  - jupyterlab
+  - ipython
+  - seaborn
+  - estimagic
+
+  # Algorithms
+  - nlopt
+  - pygmo
+
+
+  - pip:
+    - black
+    - blackcellmagic
+    - kaleido
+
+    # Pip Algorithms
+    - Py-BOBYQA
+    - DFO-LS
+    - fides==0.7.4
