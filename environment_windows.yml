@@ -1,4 +1,4 @@
-name: scipy_estimagic
+name: scipy-estimagic
 channels:
   - conda-forge
   - nodefaults
