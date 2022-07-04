@@ -15,7 +15,7 @@ dependencies:
   - ipython
   - seaborn
   - jax
-  - estimagic
+  - estimagic >=0.4.0
 
   # Algorithms
   - nlopt
