@@ -27,6 +27,8 @@
 
 1. Install and activate the environment
 
+   > **Note** Use `environment_windows.yml` on Windows.
+
    ```console
    $ conda env create -f environment.yml
    $ conda activate scipy-estimagic
