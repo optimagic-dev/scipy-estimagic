@@ -25,7 +25,7 @@ from estimagic import __version__  # noqa: E402
 
 if required_estimagic_version not in __version__:
     msg = (
-        f"You've installed estimagic version {__version__}, but we require version "
+        f"You've installed estimagic version {__version__}, but we require version"
         f"{required_estimagic_version}"
     )
     raise Exception(msg)  # noqa: TC002

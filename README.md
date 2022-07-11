@@ -21,13 +21,11 @@
 1. Clone the repository
 
    ```console
-   $ git clone https://github.com/OpenSourceEconomics/scipy-estimagic.git
+   $ git clone https://github.com/OpenSourceEconomics/scipy-pres.git
    $ cd scipy-estimagic
    ```
 
 1. Install and activate the environment
-
-   > **Note** Use `environment_windows.yml` on Windows.
 
    ```console
    $ conda env create -f environment.yml
