@@ -21,7 +21,7 @@
 1. Clone the repository
 
    ```console
-   $ git clone https://github.com/OpenSourceEconomics/scipy-pres.git
+   $ git clone https://github.com/OpenSourceEconomics/scipy-estimagic.git
    $ cd scipy-estimagic
    ```
 
